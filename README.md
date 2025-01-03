@@ -1,5 +1,4 @@
 # Arduino on ESP-IDF Example for ESP32-C6
-# Arduino on ESP-IDF Example for ESP32-C6
 
 This project demonstrates how to run Arduino in an ESP-IDF project for the ESP32-C6, while also running a C program on the ULP core at the same time. If you're looking for an overview of the different ways to use Arduino and ESP-IDF on the ESP32-C6, check out my [GitHub Gist](https://gist.github.com/Graunephar/57a9882cb3a2ab98be8d63a59ab16ef3), which provides details on all my example repositories.
 
